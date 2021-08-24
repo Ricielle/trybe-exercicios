@@ -1,0 +1,4 @@
+A Trybe é uma excelente escola.
+No bloco 1 aprendemos sobre unix e bash.
+Brasil
+EUA
