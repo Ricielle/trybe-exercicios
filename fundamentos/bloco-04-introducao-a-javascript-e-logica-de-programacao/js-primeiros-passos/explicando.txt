@@ -1,0 +1,6 @@
+A variável birthYear alterou de valor pois declarei como 'var'
+Se ela fosse delcarada como 'let' o valor não poderia alterar.
+
+Já a constante não altera seu valor pois 
+é uma caracterista da constante não permitir que
+seu valor seja alterado.
