@@ -7,4 +7,4 @@ console.log(cars[2]); // BMW
 for (let index = 0; index < cars.length; index += 1) {
   console.log(cars[index]);
 }
-console.log(cars);
+console.log(cars);//sem o for
