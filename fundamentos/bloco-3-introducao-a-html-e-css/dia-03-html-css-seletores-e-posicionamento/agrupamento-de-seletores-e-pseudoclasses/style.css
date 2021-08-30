@@ -1,0 +1,17 @@
+h1,p{
+  text-align: center;
+}
+
+li:hover{
+  background-color: pink;
+  color: blue;
+}
+
+li:active{
+  color:rgb(74, 105, 43); 
+  background-color: aqua;
+}
+
+ol, li{
+  list-style: none;
+}
