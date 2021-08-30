@@ -1,0 +1,48 @@
+ol{
+  background-color: yellow;
+}
+
+.impar{
+  color: green;
+  text-transform: lowercase;
+}
+
+h1, h3{
+  color: red;  
+}
+
+.par{
+  font-size: 20px;
+  border: 5px solid black;
+  font-weight:bold;
+}
+.lp{
+  color: blue;
+}
+
+.java{
+  background-color: pink;
+}
+
+ul.aliados li:hover{
+  font-weight:bold;  
+}
+
+.stack{
+  color: orange;
+}
+.w3s{
+  color: green;
+}
+
+.mdn{
+  color: black;
+}
+
+.dev{
+  color: yellow;
+}
+
+.trybe{
+  color: green;
+}
