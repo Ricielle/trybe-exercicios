@@ -1,0 +1,31 @@
+div:hover{
+    border-style: double;
+}
+.primaria{
+  color: red;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.secundaria{
+  color: green;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.complementar{
+color:#e1db13,#2fa82d;
+font-size: x-large;
+font-family: sans-serif;
+}
+
+.escura{
+  color:rgb(green,purple);
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.clara{
+  color: rgba(240, 217, 217, 0.5);
+}
+
+h3{
+  font-style: italic;
+}
